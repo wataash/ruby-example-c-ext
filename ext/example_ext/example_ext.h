@@ -1,6 +1,6 @@
+// SPDX-License-Identifier: Apache-2.0
+
 #ifndef EXAMPLE_EXT_H
 #define EXAMPLE_EXT_H 1
-
-#include "ruby.h"
 
 #endif /* EXAMPLE_EXT_H */
